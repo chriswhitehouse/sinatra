@@ -18,7 +18,7 @@ Ruby
 Form to personalise the cat name
 
 ## Code Example
-```html
+``` ruby
 post '/named-cat' do
   p params
   @name = params[:name]
