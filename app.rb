@@ -25,5 +25,5 @@ post '/named-cat' do
 end
 
 get '/form' do
- erb(:name)
+ erb(:'cat-form')
 end
