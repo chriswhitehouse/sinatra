@@ -8,7 +8,7 @@ To test Sinatra in action, to help understand how client-server request response
 Complete.
 
 ## Screenshots
-![Eric the Cat]('https://https://github.com/chriswhitehouse/sinatra/Screenshot 2020-12-08 at 20.04.17.png')
+![Eric the Cat](https://github.com/chriswhitehouse/sinatra/blob/main/Screenshot%202020-12-08%20at%2020.04.17.png)
 
 
 ## Tech/framework used
